@@ -11,7 +11,6 @@ public class CorsPreflightMiddleware
 
     public async Task InvokeAsync(HttpContext context)
     {
-        // Manejar peticiones OPTIONS (preflight) directamente
         if (context.Request.Method == "OPTIONS")
         {
             context.Response.Headers.Append("Access-Control-Allow-Origin", context.Request.Headers["Origin"].ToString());

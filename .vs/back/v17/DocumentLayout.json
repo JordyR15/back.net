@@ -1,7 +1,308 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\back.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\back.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\services\\sesionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\services\\sesionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\services\\salacineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\services\\salacineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\services\\rolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\services\\rolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\services\\peliculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\services\\peliculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\services\\isesionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\services\\isesionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\services\\irolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\services\\irolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\services\\ipeliculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\services\\ipeliculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\services\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\services\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\services\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\services\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\middleware\\jwtauthenticationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\middleware\\jwtauthenticationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\middleware\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\middleware\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\middleware\\errorhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\middleware\\errorhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\middleware\\corspreflightmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\middleware\\corspreflightmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\exceptions\\resourcenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\exceptions\\resourcenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\exceptions\\invalidtokenexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\exceptions\\invalidtokenexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\exceptions\\duplicateresourceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\exceptions\\duplicateresourceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\entities\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\entities\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\entities\\salacine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\entities\\salacine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\entities\\peliculasalacine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\entities\\peliculasalacine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\entities\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\entities\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\dtos\\user\\userlistresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\dtos\\user\\userlistresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\dtos\\user\\updateuserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\dtos\\user\\updateuserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\dtos\\user\\listuserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\dtos\\user\\listuserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\dtos\\user\\deleteuserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\dtos\\user\\deleteuserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\dtos\\user\\createuserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\dtos\\user\\createuserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\dtos\\salacine\\updatesalacinerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\dtos\\salacine\\updatesalacinerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\dtos\\salacine\\totalesdisponibilidadresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\dtos\\salacine\\totalesdisponibilidadresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\dtos\\salacine\\totalesdisponibilidadrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\dtos\\salacine\\totalesdisponibilidadrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\dtos\\salacine\\salacineconteoresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\dtos\\salacine\\salacineconteoresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\dtos\\salacine\\salacinebasicresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\dtos\\salacine\\salacinebasicresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\dtos\\salacine\\filtrarsalasporestadorequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\dtos\\salacine\\filtrarsalasporestadorequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\dtos\\salacine\\estrenossalarequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\dtos\\salacine\\estrenossalarequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\dtos\\salacine\\estadosalaresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\dtos\\salacine\\estadosalaresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\dtos\\salacine\\estadosalarequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\dtos\\salacine\\estadosalarequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\dtos\\salacine\\deletesalacinerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\dtos\\salacine\\deletesalacinerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\dtos\\salacine\\createsalacinerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\dtos\\salacine\\createsalacinerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\dtos\\salacine\\buscarpornombresalarequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\dtos\\salacine\\buscarpornombresalarequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\dtos\\role\\rolelistrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\dtos\\role\\rolelistrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\dtos\\role\\roleresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\dtos\\role\\roleresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\dtos\\pelicula\\updatepelicularequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\dtos\\pelicula\\updatepelicularequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\dtos\\pelicula\\peliculasporfecharesponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\dtos\\pelicula\\peliculasporfecharesponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\dtos\\pelicula\\peliculasalaresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\dtos\\pelicula\\peliculasalaresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\dtos\\pelicula\\peliculabasicresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\dtos\\pelicula\\peliculabasicresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\dtos\\pelicula\\deletepelicularequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\dtos\\pelicula\\deletepelicularequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\dtos\\pelicula\\buscarpornombrerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\dtos\\pelicula\\buscarpornombrerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\dtos\\pelicula\\createpelicularequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\dtos\\pelicula\\createpelicularequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\dtos\\pelicula\\buscarporfecharequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\dtos\\pelicula\\buscarporfecharequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\dtos\\pelicula\\buscarpeliculapornombreysalarequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\dtos\\pelicula\\buscarpeliculapornombreysalarequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\dtos\\pelicula\\asignarpeliculasalarequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\dtos\\pelicula\\asignarpeliculasalarequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\dtos\\auth\\resetpasswordrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\dtos\\auth\\resetpasswordrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\dtos\\auth\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\dtos\\auth\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\dtos\\auth\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\dtos\\auth\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\dtos\\auth\\forgotpasswordrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\dtos\\auth\\forgotpasswordrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\docs\\postman_collection.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\docs\\postman_collection.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\data\\procedimientos_almacenados.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\data\\procedimientos_almacenados.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\controllers\\salacinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\controllers\\salacinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\controllers\\programacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\controllers\\programacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\controllers\\peliculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\controllers\\peliculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|c:\\users\\tonyp\\onedrive\\escritorio\\jordy\\algoritmo\\c#\\.net\\back\\back\\data\\procedimientos_almacenados.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{75F55BBD-5724-4F02-B97C-56E36BBABC37}|back\\back.csproj|solutionrelative:back\\data\\procedimientos_almacenados.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,11 +310,972 @@
       "DocumentGroups": [
         {
           "DockedHeight": 349,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Program.cs",
+              "RelativeDocumentMoniker": "back\\Program.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Program.cs",
+              "RelativeToolTip": "back\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:53:56.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "back.http",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\back.http",
+              "RelativeDocumentMoniker": "back\\back.http",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\back.http",
+              "RelativeToolTip": "back\\back.http",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-03T19:53:53.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\appsettings.json",
+              "RelativeDocumentMoniker": "back\\appsettings.json",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\appsettings.json",
+              "RelativeToolTip": "back\\appsettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-03T19:53:51.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "back\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Services\\UserService.cs",
+              "RelativeToolTip": "back\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:53:49.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SesionService.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Services\\SesionService.cs",
+              "RelativeDocumentMoniker": "back\\Services\\SesionService.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Services\\SesionService.cs",
+              "RelativeToolTip": "back\\Services\\SesionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:53:48.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SalaCineService.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Services\\SalaCineService.cs",
+              "RelativeDocumentMoniker": "back\\Services\\SalaCineService.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Services\\SalaCineService.cs",
+              "RelativeToolTip": "back\\Services\\SalaCineService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:53:47.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RolService.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Services\\RolService.cs",
+              "RelativeDocumentMoniker": "back\\Services\\RolService.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Services\\RolService.cs",
+              "RelativeToolTip": "back\\Services\\RolService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:53:46.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PeliculaService.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Services\\PeliculaService.cs",
+              "RelativeDocumentMoniker": "back\\Services\\PeliculaService.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Services\\PeliculaService.cs",
+              "RelativeToolTip": "back\\Services\\PeliculaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:53:45.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Services\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "back\\Services\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Services\\PasswordHasher.cs",
+              "RelativeToolTip": "back\\Services\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:53:45.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "back\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Services\\JwtService.cs",
+              "RelativeToolTip": "back\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:53:43.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "back\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Services\\IUserService.cs",
+              "RelativeToolTip": "back\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:53:43.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ISesionService.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Services\\ISesionService.cs",
+              "RelativeDocumentMoniker": "back\\Services\\ISesionService.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Services\\ISesionService.cs",
+              "RelativeToolTip": "back\\Services\\ISesionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:53:41.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRolService.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Services\\IRolService.cs",
+              "RelativeDocumentMoniker": "back\\Services\\IRolService.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Services\\IRolService.cs",
+              "RelativeToolTip": "back\\Services\\IRolService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:53:40.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPeliculaService.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Services\\IPeliculaService.cs",
+              "RelativeDocumentMoniker": "back\\Services\\IPeliculaService.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Services\\IPeliculaService.cs",
+              "RelativeToolTip": "back\\Services\\IPeliculaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:53:39.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IPasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Services\\IPasswordHasher.cs",
+              "RelativeDocumentMoniker": "back\\Services\\IPasswordHasher.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Services\\IPasswordHasher.cs",
+              "RelativeToolTip": "back\\Services\\IPasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:53:38.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Services\\IJwtService.cs",
+              "RelativeDocumentMoniker": "back\\Services\\IJwtService.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Services\\IJwtService.cs",
+              "RelativeToolTip": "back\\Services\\IJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:53:37.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Services\\IEmailService.cs",
+              "RelativeDocumentMoniker": "back\\Services\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Services\\IEmailService.cs",
+              "RelativeToolTip": "back\\Services\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:53:36.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "back\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Services\\EmailService.cs",
+              "RelativeToolTip": "back\\Services\\EmailService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:53:28.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JwtAuthenticationMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Middleware\\JwtAuthenticationMiddleware.cs",
+              "RelativeDocumentMoniker": "back\\Middleware\\JwtAuthenticationMiddleware.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Middleware\\JwtAuthenticationMiddleware.cs",
+              "RelativeToolTip": "back\\Middleware\\JwtAuthenticationMiddleware.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:53:20.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GlobalExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Middleware\\GlobalExceptionHandler.cs",
+              "RelativeDocumentMoniker": "back\\Middleware\\GlobalExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Middleware\\GlobalExceptionHandler.cs",
+              "RelativeToolTip": "back\\Middleware\\GlobalExceptionHandler.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:53:17.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ErrorHandlerMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Middleware\\ErrorHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "back\\Middleware\\ErrorHandlerMiddleware.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Middleware\\ErrorHandlerMiddleware.cs",
+              "RelativeToolTip": "back\\Middleware\\ErrorHandlerMiddleware.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:53:14.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CorsPreflightMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Middleware\\CorsPreflightMiddleware.cs",
+              "RelativeDocumentMoniker": "back\\Middleware\\CorsPreflightMiddleware.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Middleware\\CorsPreflightMiddleware.cs",
+              "RelativeToolTip": "back\\Middleware\\CorsPreflightMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:53:06.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ResourceNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Exceptions\\ResourceNotFoundException.cs",
+              "RelativeDocumentMoniker": "back\\Exceptions\\ResourceNotFoundException.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Exceptions\\ResourceNotFoundException.cs",
+              "RelativeToolTip": "back\\Exceptions\\ResourceNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:53:03.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "InvalidTokenException.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Exceptions\\InvalidTokenException.cs",
+              "RelativeDocumentMoniker": "back\\Exceptions\\InvalidTokenException.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Exceptions\\InvalidTokenException.cs",
+              "RelativeToolTip": "back\\Exceptions\\InvalidTokenException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:53:02.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DuplicateResourceException.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Exceptions\\DuplicateResourceException.cs",
+              "RelativeDocumentMoniker": "back\\Exceptions\\DuplicateResourceException.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Exceptions\\DuplicateResourceException.cs",
+              "RelativeToolTip": "back\\Exceptions\\DuplicateResourceException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:53:01.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Entities\\UserRole.cs",
+              "RelativeDocumentMoniker": "back\\Entities\\UserRole.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Entities\\UserRole.cs",
+              "RelativeToolTip": "back\\Entities\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:52:58.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "back\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Entities\\User.cs",
+              "RelativeToolTip": "back\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:52:57.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Entities\\Session.cs",
+              "RelativeDocumentMoniker": "back\\Entities\\Session.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Entities\\Session.cs",
+              "RelativeToolTip": "back\\Entities\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:52:56.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SalaCine.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Entities\\SalaCine.cs",
+              "RelativeDocumentMoniker": "back\\Entities\\SalaCine.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Entities\\SalaCine.cs",
+              "RelativeToolTip": "back\\Entities\\SalaCine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:52:55.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "back\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Entities\\Role.cs",
+              "RelativeToolTip": "back\\Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:52:54.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "back\\Entities\\Person.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Entities\\Person.cs",
+              "RelativeToolTip": "back\\Entities\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:52:48.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PeliculaSalacine.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Entities\\PeliculaSalacine.cs",
+              "RelativeDocumentMoniker": "back\\Entities\\PeliculaSalacine.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Entities\\PeliculaSalacine.cs",
+              "RelativeToolTip": "back\\Entities\\PeliculaSalacine.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:52:46.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Pelicula.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Entities\\Pelicula.cs",
+              "RelativeDocumentMoniker": "back\\Entities\\Pelicula.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Entities\\Pelicula.cs",
+              "RelativeToolTip": "back\\Entities\\Pelicula.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:52:40.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserListResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\User\\UserListResponseDto.cs",
+              "RelativeDocumentMoniker": "back\\DTOs\\User\\UserListResponseDto.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\User\\UserListResponseDto.cs",
+              "RelativeToolTip": "back\\DTOs\\User\\UserListResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:52:37.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UpdateUserRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\User\\UpdateUserRequestDto.cs",
+              "RelativeDocumentMoniker": "back\\DTOs\\User\\UpdateUserRequestDto.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\User\\UpdateUserRequestDto.cs",
+              "RelativeToolTip": "back\\DTOs\\User\\UpdateUserRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:52:35.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UpdateSalaCineRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\SalaCine\\UpdateSalaCineRequestDto.cs",
+              "RelativeDocumentMoniker": "back\\DTOs\\SalaCine\\UpdateSalaCineRequestDto.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\SalaCine\\UpdateSalaCineRequestDto.cs",
+              "RelativeToolTip": "back\\DTOs\\SalaCine\\UpdateSalaCineRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:51:36.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CreateUserRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\User\\CreateUserRequestDto.cs",
+              "RelativeDocumentMoniker": "back\\DTOs\\User\\CreateUserRequestDto.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\User\\CreateUserRequestDto.cs",
+              "RelativeToolTip": "back\\DTOs\\User\\CreateUserRequestDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:51:40.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DeleteUserRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\User\\DeleteUserRequestDto.cs",
+              "RelativeDocumentMoniker": "back\\DTOs\\User\\DeleteUserRequestDto.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\User\\DeleteUserRequestDto.cs",
+              "RelativeToolTip": "back\\DTOs\\User\\DeleteUserRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:51:45.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ListUserRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\User\\ListUserRequestDto.cs",
+              "RelativeDocumentMoniker": "back\\DTOs\\User\\ListUserRequestDto.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\User\\ListUserRequestDto.cs",
+              "RelativeToolTip": "back\\DTOs\\User\\ListUserRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:51:47.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "TotalesDisponibilidadResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\SalaCine\\TotalesDisponibilidadResponseDto.cs",
+              "RelativeDocumentMoniker": "back\\DTOs\\SalaCine\\TotalesDisponibilidadResponseDto.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\SalaCine\\TotalesDisponibilidadResponseDto.cs",
+              "RelativeToolTip": "back\\DTOs\\SalaCine\\TotalesDisponibilidadResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:51:28.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TotalesDisponibilidadRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\SalaCine\\TotalesDisponibilidadRequestDto.cs",
+              "RelativeDocumentMoniker": "back\\DTOs\\SalaCine\\TotalesDisponibilidadRequestDto.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\SalaCine\\TotalesDisponibilidadRequestDto.cs",
+              "RelativeToolTip": "back\\DTOs\\SalaCine\\TotalesDisponibilidadRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:51:14.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SalaCineConteoResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\SalaCine\\SalaCineConteoResponseDto.cs",
+              "RelativeDocumentMoniker": "back\\DTOs\\SalaCine\\SalaCineConteoResponseDto.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\SalaCine\\SalaCineConteoResponseDto.cs",
+              "RelativeToolTip": "back\\DTOs\\SalaCine\\SalaCineConteoResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:51:12.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "SalaCineBasicResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\SalaCine\\SalaCineBasicResponseDto.cs",
+              "RelativeDocumentMoniker": "back\\DTOs\\SalaCine\\SalaCineBasicResponseDto.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\SalaCine\\SalaCineBasicResponseDto.cs",
+              "RelativeToolTip": "back\\DTOs\\SalaCine\\SalaCineBasicResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:51:11.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FiltrarSalasPorEstadoRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\SalaCine\\FiltrarSalasPorEstadoRequestDto.cs",
+              "RelativeDocumentMoniker": "back\\DTOs\\SalaCine\\FiltrarSalasPorEstadoRequestDto.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\SalaCine\\FiltrarSalasPorEstadoRequestDto.cs",
+              "RelativeToolTip": "back\\DTOs\\SalaCine\\FiltrarSalasPorEstadoRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:51:01.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "EstrenosSalaRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\SalaCine\\EstrenosSalaRequestDto.cs",
+              "RelativeDocumentMoniker": "back\\DTOs\\SalaCine\\EstrenosSalaRequestDto.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\SalaCine\\EstrenosSalaRequestDto.cs",
+              "RelativeToolTip": "back\\DTOs\\SalaCine\\EstrenosSalaRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:50:59.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "EstadoSalaResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\SalaCine\\EstadoSalaResponseDto.cs",
+              "RelativeDocumentMoniker": "back\\DTOs\\SalaCine\\EstadoSalaResponseDto.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\SalaCine\\EstadoSalaResponseDto.cs",
+              "RelativeToolTip": "back\\DTOs\\SalaCine\\EstadoSalaResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:50:58.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "EstadoSalaRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\SalaCine\\EstadoSalaRequestDto.cs",
+              "RelativeDocumentMoniker": "back\\DTOs\\SalaCine\\EstadoSalaRequestDto.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\SalaCine\\EstadoSalaRequestDto.cs",
+              "RelativeToolTip": "back\\DTOs\\SalaCine\\EstadoSalaRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:50:47.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DeleteSalaCineRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\SalaCine\\DeleteSalaCineRequestDto.cs",
+              "RelativeDocumentMoniker": "back\\DTOs\\SalaCine\\DeleteSalaCineRequestDto.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\SalaCine\\DeleteSalaCineRequestDto.cs",
+              "RelativeToolTip": "back\\DTOs\\SalaCine\\DeleteSalaCineRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:50:48.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CreateSalaCineRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\SalaCine\\CreateSalaCineRequestDto.cs",
+              "RelativeDocumentMoniker": "back\\DTOs\\SalaCine\\CreateSalaCineRequestDto.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\SalaCine\\CreateSalaCineRequestDto.cs",
+              "RelativeToolTip": "back\\DTOs\\SalaCine\\CreateSalaCineRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:50:46.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "BuscarPorNombreSalaRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\SalaCine\\BuscarPorNombreSalaRequestDto.cs",
+              "RelativeDocumentMoniker": "back\\DTOs\\SalaCine\\BuscarPorNombreSalaRequestDto.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\SalaCine\\BuscarPorNombreSalaRequestDto.cs",
+              "RelativeToolTip": "back\\DTOs\\SalaCine\\BuscarPorNombreSalaRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:50:45.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "RoleListRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\Role\\RoleListRequestDto.cs",
+              "RelativeDocumentMoniker": "back\\DTOs\\Role\\RoleListRequestDto.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\Role\\RoleListRequestDto.cs",
+              "RelativeToolTip": "back\\DTOs\\Role\\RoleListRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:50:39.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "RoleResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\Role\\RoleResponseDto.cs",
+              "RelativeDocumentMoniker": "back\\DTOs\\Role\\RoleResponseDto.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\Role\\RoleResponseDto.cs",
+              "RelativeToolTip": "back\\DTOs\\Role\\RoleResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:50:40.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "PeliculasPorFechaResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\Pelicula\\PeliculasPorFechaResponseDto.cs",
+              "RelativeDocumentMoniker": "back\\DTOs\\Pelicula\\PeliculasPorFechaResponseDto.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\Pelicula\\PeliculasPorFechaResponseDto.cs",
+              "RelativeToolTip": "back\\DTOs\\Pelicula\\PeliculasPorFechaResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:50:35.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "PeliculaSalaResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\Pelicula\\PeliculaSalaResponseDto.cs",
+              "RelativeDocumentMoniker": "back\\DTOs\\Pelicula\\PeliculaSalaResponseDto.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\Pelicula\\PeliculaSalaResponseDto.cs",
+              "RelativeToolTip": "back\\DTOs\\Pelicula\\PeliculaSalaResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:50:34.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "PeliculaBasicResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\Pelicula\\PeliculaBasicResponseDto.cs",
+              "RelativeDocumentMoniker": "back\\DTOs\\Pelicula\\PeliculaBasicResponseDto.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\Pelicula\\PeliculaBasicResponseDto.cs",
+              "RelativeToolTip": "back\\DTOs\\Pelicula\\PeliculaBasicResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:50:33.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "UpdatePeliculaRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\Pelicula\\UpdatePeliculaRequestDto.cs",
+              "RelativeDocumentMoniker": "back\\DTOs\\Pelicula\\UpdatePeliculaRequestDto.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\Pelicula\\UpdatePeliculaRequestDto.cs",
+              "RelativeToolTip": "back\\DTOs\\Pelicula\\UpdatePeliculaRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:50:36.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "DeletePeliculaRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\Pelicula\\DeletePeliculaRequestDto.cs",
+              "RelativeDocumentMoniker": "back\\DTOs\\Pelicula\\DeletePeliculaRequestDto.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\Pelicula\\DeletePeliculaRequestDto.cs",
+              "RelativeToolTip": "back\\DTOs\\Pelicula\\DeletePeliculaRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:50:32.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "BuscarPorNombreRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\Pelicula\\BuscarPorNombreRequestDto.cs",
+              "RelativeDocumentMoniker": "back\\DTOs\\Pelicula\\BuscarPorNombreRequestDto.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\Pelicula\\BuscarPorNombreRequestDto.cs",
+              "RelativeToolTip": "back\\DTOs\\Pelicula\\BuscarPorNombreRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:50:30.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CreatePeliculaRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\Pelicula\\CreatePeliculaRequestDto.cs",
+              "RelativeDocumentMoniker": "back\\DTOs\\Pelicula\\CreatePeliculaRequestDto.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\Pelicula\\CreatePeliculaRequestDto.cs",
+              "RelativeToolTip": "back\\DTOs\\Pelicula\\CreatePeliculaRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:50:31.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "BuscarPorFechaRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\Pelicula\\BuscarPorFechaRequestDto.cs",
+              "RelativeDocumentMoniker": "back\\DTOs\\Pelicula\\BuscarPorFechaRequestDto.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\Pelicula\\BuscarPorFechaRequestDto.cs",
+              "RelativeToolTip": "back\\DTOs\\Pelicula\\BuscarPorFechaRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:50:25.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "BuscarPeliculaPorNombreYSalaRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\Pelicula\\BuscarPeliculaPorNombreYSalaRequestDto.cs",
+              "RelativeDocumentMoniker": "back\\DTOs\\Pelicula\\BuscarPeliculaPorNombreYSalaRequestDto.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\Pelicula\\BuscarPeliculaPorNombreYSalaRequestDto.cs",
+              "RelativeToolTip": "back\\DTOs\\Pelicula\\BuscarPeliculaPorNombreYSalaRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:50:26.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "AsignarPeliculaSalaRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\Pelicula\\AsignarPeliculaSalaRequestDto.cs",
+              "RelativeDocumentMoniker": "back\\DTOs\\Pelicula\\AsignarPeliculaSalaRequestDto.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\Pelicula\\AsignarPeliculaSalaRequestDto.cs",
+              "RelativeToolTip": "back\\DTOs\\Pelicula\\AsignarPeliculaSalaRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:50:22.986Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\Auth\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "back\\DTOs\\Auth\\LoginResponseDto.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\Auth\\LoginResponseDto.cs",
+              "RelativeToolTip": "back\\DTOs\\Auth\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:50:19.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ResetPasswordRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\Auth\\ResetPasswordRequestDto.cs",
+              "RelativeDocumentMoniker": "back\\DTOs\\Auth\\ResetPasswordRequestDto.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\Auth\\ResetPasswordRequestDto.cs",
+              "RelativeToolTip": "back\\DTOs\\Auth\\ResetPasswordRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:50:18.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\Auth\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "back\\DTOs\\Auth\\LoginRequestDto.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\Auth\\LoginRequestDto.cs",
+              "RelativeToolTip": "back\\DTOs\\Auth\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:50:16.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ForgotPasswordRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\Auth\\ForgotPasswordRequestDto.cs",
+              "RelativeDocumentMoniker": "back\\DTOs\\Auth\\ForgotPasswordRequestDto.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\DTOs\\Auth\\ForgotPasswordRequestDto.cs",
+              "RelativeToolTip": "back\\DTOs\\Auth\\ForgotPasswordRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:50:13.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "postman_collection.json",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Docs\\postman_collection.json",
+              "RelativeDocumentMoniker": "back\\Docs\\postman_collection.json",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Docs\\postman_collection.json",
+              "RelativeToolTip": "back\\Docs\\postman_collection.json",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-03T19:50:07.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "procedimientos_almacenados.sql ",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Data\\procedimientos_almacenados.sql",
+              "RelativeDocumentMoniker": "back\\Data\\procedimientos_almacenados.sql",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Data\\procedimientos_almacenados.sql",
+              "RelativeToolTip": "back\\Data\\procedimientos_almacenados.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-03T19:49:55.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "back\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "back\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:49:48.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "SalaCineController.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Controllers\\SalaCineController.cs",
+              "RelativeDocumentMoniker": "back\\Controllers\\SalaCineController.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Controllers\\SalaCineController.cs",
+              "RelativeToolTip": "back\\Controllers\\SalaCineController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:49:39.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ProgramacionController.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Controllers\\ProgramacionController.cs",
+              "RelativeDocumentMoniker": "back\\Controllers\\ProgramacionController.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Controllers\\ProgramacionController.cs",
+              "RelativeToolTip": "back\\Controllers\\ProgramacionController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:49:33.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "PeliculaController.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Controllers\\PeliculaController.cs",
+              "RelativeDocumentMoniker": "back\\Controllers\\PeliculaController.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Controllers\\PeliculaController.cs",
+              "RelativeToolTip": "back\\Controllers\\PeliculaController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:49:27.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "back\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "back\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:49:19.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "back\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\tonyp\\OneDrive\\Escritorio\\Jordy\\Algoritmo\\C#\\.net\\back\\back\\Properties\\launchSettings.json",
+              "RelativeToolTip": "back\\Properties\\launchSettings.json",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-03T19:49:10.184Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
