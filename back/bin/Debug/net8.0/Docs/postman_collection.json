@@ -1,0 +1,52 @@
+{
+  "info": {
+    "name": "Back API - Colección",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_postman_id": "c8a2b0d4-0b45-41f2-9b1f-collection"
+  },
+  "item": [
+    {
+      "name": "Auth - Login",
+      "request": {
+        "method": "POST",
+        "header": [
+          { "key": "Content-Type", "value": "application/json" }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"username\": \"admin\",\n  \"password\": \"admin1234\"\n}"
+        },
+        "url": { "raw": "{{baseUrl}}/api/auth/login", "host": ["{{baseUrl}}"], "path": ["api","auth","login"] }
+      }
+    },
+    {
+      "name": "Peliculas - Crear",
+      "request": {
+        "method": "POST",
+        "header": [
+          { "key": "Content-Type", "value": "application/json" },
+          { "key": "Authorization", "value": "Bearer {{token}}" }
+        ],
+        "body": { "mode": "raw", "raw": "{\n  \"nombre\": \"Pelicula X\",\n  \"duracion\": 120\n}" },
+        "url": { "raw": "{{baseUrl}}/api/peliculas", "host": ["{{baseUrl}}"], "path": ["api","peliculas"] }
+      }
+    },
+    { "name": "Peliculas - List", "request": { "method": "POST", "header": [ { "key": "Authorization", "value": "Bearer {{token}}" } ], "url": { "raw": "{{baseUrl}}/api/peliculas/list", "host": ["{{baseUrl}}"], "path": ["api","peliculas","list"] } } },
+    { "name": "Peliculas - Update", "request": { "method": "POST", "header": [ { "key": "Content-Type", "value": "application/json" }, { "key": "Authorization", "value": "Bearer {{token}}" } ], "body": { "mode": "raw", "raw": "{\n  \"id\": 1,\n  \"nombre\": \"Nuevo\",\n  \"duracion\": 100\n}" }, "url": { "raw": "{{baseUrl}}/api/peliculas/update", "host": ["{{baseUrl}}"], "path": ["api","peliculas","update"] } } },
+    { "name": "Peliculas - Delete", "request": { "method": "POST", "header": [ { "key": "Content-Type", "value": "application/json" }, { "key": "Authorization", "value": "Bearer {{token}}" } ], "body": { "mode": "raw", "raw": "{\n  \"id\": 1\n}" }, "url": { "raw": "{{baseUrl}}/api/peliculas/delete", "host": ["{{baseUrl}}"], "path": ["api","peliculas","delete"] } } },
+    { "name": "Peliculas - Buscar por nombre", "request": { "method": "POST", "header": [ { "key": "Content-Type", "value": "application/json" }, { "key": "Authorization", "value": "Bearer {{token}}" } ], "body": { "mode": "raw", "raw": "{\n  \"nombre\": \"peli\"\n}" }, "url": { "raw": "{{baseUrl}}/api/peliculas/buscar-por-nombre", "host": ["{{baseUrl}}"], "path": ["api","peliculas","buscar-por-nombre"] } } },
+    { "name": "Peliculas - Por fecha", "request": { "method": "POST", "header": [ { "key": "Content-Type", "value": "application/json" }, { "key": "Authorization", "value": "Bearer {{token}}" } ], "body": { "mode": "raw", "raw": "{\n  \"fechaPublicacion\": \"2025-01-01\"\n}" }, "url": { "raw": "{{baseUrl}}/api/peliculas/buscar-por-fecha", "host": ["{{baseUrl}}"], "path": ["api","peliculas","buscar-por-fecha"] } } },
+    { "name": "Salas - Crear", "request": { "method": "POST", "header": [ { "key": "Content-Type", "value": "application/json" }, { "key": "Authorization", "value": "Bearer {{token}}" } ], "body": { "mode": "raw", "raw": "{\n  \"nombre\": \"Sala 1\"\n}" }, "url": { "raw": "{{baseUrl}}/api/salas", "host": ["{{baseUrl}}"], "path": ["api","salas"] } } },
+    { "name": "Salas - List", "request": { "method": "POST", "header": [ { "key": "Authorization", "value": "Bearer {{token}}" } ], "url": { "raw": "{{baseUrl}}/api/salas/list", "host": ["{{baseUrl}}"], "path": ["api","salas","list"] } } },
+    { "name": "Salas - Update", "request": { "method": "POST", "header": [ { "key": "Content-Type", "value": "application/json" }, { "key": "Authorization", "value": "Bearer {{token}}" } ], "body": { "mode": "raw", "raw": "{\n  \"id\": 1,\n  \"nombre\": \"Sala 1 Mod\"\n}" }, "url": { "raw": "{{baseUrl}}/api/salas/update", "host": ["{{baseUrl}}"], "path": ["api","salas","update"] } } },
+    { "name": "Salas - Delete", "request": { "method": "POST", "header": [ { "key": "Content-Type", "value": "application/json" }, { "key": "Authorization", "value": "Bearer {{token}}" } ], "body": { "mode": "raw", "raw": "{\n  \"id\": 1\n}" }, "url": { "raw": "{{baseUrl}}/api/salas/delete", "host": ["{{baseUrl}}"], "path": ["api","salas","delete"] } } },
+    { "name": "Salas - Estado sala", "request": { "method": "POST", "header": [ { "key": "Content-Type", "value": "application/json" }, { "key": "Authorization", "value": "Bearer {{token}}" } ], "body": { "mode": "raw", "raw": "{\n  \"nombreSala\": \"Sala 1\",\n  \"fecha\": \"2025-01-01\"\n}" }, "url": { "raw": "{{baseUrl}}/api/salas/estado-sala", "host": ["{{baseUrl}}"], "path": ["api","salas","estado-sala"] } } },
+    { "name": "Salas - Estrenos por sala", "request": { "method": "POST", "header": [ { "key": "Content-Type", "value": "application/json" }, { "key": "Authorization", "value": "Bearer {{token}}" } ], "body": { "mode": "raw", "raw": "{\n  \"nombreSala\": \"Sala 1\"\n}" }, "url": { "raw": "{{baseUrl}}/api/salas/estrenos-por-sala", "host": ["{{baseUrl}}"], "path": ["api","salas","estrenos-por-sala"] } } },
+    { "name": "Salas - Total disponibles", "request": { "method": "POST", "header": [ { "key": "Content-Type", "value": "application/json" }, { "key": "Authorization", "value": "Bearer {{token}}" } ], "body": { "mode": "raw", "raw": "{\n  \"fecha\": \"2025-01-01\"\n}" }, "url": { "raw": "{{baseUrl}}/api/salas/total-disponibles", "host": ["{{baseUrl}}"], "path": ["api","salas","total-disponibles"] } } },
+    { "name": "Programación - Asignar", "request": { "method": "POST", "header": [ { "key": "Content-Type", "value": "application/json" }, { "key": "Authorization", "value": "Bearer {{token}}" } ], "body": { "mode": "raw", "raw": "{\n  \"peliculaId\": 1,\n  \"salaCineId\": 1,\n  \"fechaPublicacion\": \"2025-01-01\",\n  \"fechaFin\": \"2025-01-10\"\n}" }, "url": { "raw": "{{baseUrl}}/api/programacion/asignar", "host": ["{{baseUrl}}"], "path": ["api","programacion","asignar"] } } }
+  ],
+  "variable": [
+    { "key": "baseUrl", "value": "http://localhost:5162" },
+    { "key": "token", "value": "" }
+  ]
+}

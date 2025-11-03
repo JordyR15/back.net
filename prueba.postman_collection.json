@@ -1,0 +1,704 @@
+{
+	"info": {
+		"_postman_id": "7dfc4ced-3b4f-45ca-b4b4-f02b2cc8927b",
+		"name": "prueba",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "48829736"
+	},
+	"item": [
+		{
+			"name": "login",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhZG1pbiIsImlhdCI6MTc1OTA4Mjk1MCwiZXhwIjoxNzU5MDg2NTUwfQ.TIU0lT0Sjw6VQa4vA72vhI96vQl0Jc8b2GddPWrmES0",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"username\": \"ryu\",\r\n    \"password\": \"ryu1999\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5162/api/auth/login",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5162",
+					"path": [
+						"api",
+						"auth",
+						"login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "forgot-password",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"email\": \"jordyrivas15@gmail.com\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5162/api/auth/forgot-password",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5162",
+					"path": [
+						"api",
+						"auth",
+						"forgot-password"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "reset-password",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"token\": \"31d7b30e-9456-490d-b9fd-4ee39d4ddccb\",\r\n    \"newPassword\": \"nuevaClaveSegura123\"\r\n}\r\n    ",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5162/api/auth/reset-password",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5162",
+					"path": [
+						"api",
+						"auth",
+						"reset-password"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "add-peliculas",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6InJ5dSIsInJvbGUiOiJST0xFX0FETUlOIiwibmJmIjoxNzYyMTkzMjQzLCJleHAiOjE3NjIyNzk2NDMsImlhdCI6MTc2MjE5MzI0M30.kcCmUMzOMjTZE7gh5MWBXcP7R-Oc88ozXBR-PfbsEI8",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"nombre\": \"El Origen del mal\",\r\n  \"duracion\": 148\r\n}"
+				},
+				"url": {
+					"raw": "http://localhost:5162/api/peliculas",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5162",
+					"path": [
+						"api",
+						"peliculas"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "list-peliculas",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6InJ5dSIsInJvbGUiOiJST0xFX0FETUlOIiwibmJmIjoxNzYyMTkzMjQzLCJleHAiOjE3NjIyNzk2NDMsImlhdCI6MTc2MjE5MzI0M30.kcCmUMzOMjTZE7gh5MWBXcP7R-Oc88ozXBR-PfbsEI8",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{}"
+				},
+				"url": {
+					"raw": "http://localhost:5162/api/peliculas/list",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5162",
+					"path": [
+						"api",
+						"peliculas",
+						"list"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "update-peliculas",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6InJ5dSIsInJvbGUiOiJST0xFX0FETUlOIiwibmJmIjoxNzYyMTkzMjQzLCJleHAiOjE3NjIyNzk2NDMsImlhdCI6MTc2MjE5MzI0M30.kcCmUMzOMjTZE7gh5MWBXcP7R-Oc88ozXBR-PfbsEI8",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"id\": 22,\r\n  \"nombre\": \"El Origen de las Pruebas (Versión Extendida)\",\r\n  \"duracion\": 180\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5162/api/peliculas/update",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5162",
+					"path": [
+						"api",
+						"peliculas",
+						"update"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "delete-peliculas",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6InJ5dSIsInJvbGUiOiJST0xFX0FETUlOIiwibmJmIjoxNzYyMTkzMjQzLCJleHAiOjE3NjIyNzk2NDMsImlhdCI6MTc2MjE5MzI0M30.kcCmUMzOMjTZE7gh5MWBXcP7R-Oc88ozXBR-PfbsEI8",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"id\": 22\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5162/api/peliculas/delete",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5162",
+					"path": [
+						"api",
+						"peliculas",
+						"delete"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "buscar-peliculas",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6InJ5dSIsInJvbGUiOiJST0xFX0FETUlOIiwibmJmIjoxNzYyMTkzMjQzLCJleHAiOjE3NjIyNzk2NDMsImlhdCI6MTc2MjE5MzI0M30.kcCmUMzOMjTZE7gh5MWBXcP7R-Oc88ozXBR-PfbsEI8",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"nombre\": \"Balto\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5162/api/peliculas/buscar-por-nombre",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5162",
+					"path": [
+						"api",
+						"peliculas",
+						"buscar-por-nombre"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "buscar-por-fecha-peliculas",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6InJ5dSIsInJvbGUiOiJST0xFX0FETUlOIiwibmJmIjoxNzYyMTkzMjQzLCJleHAiOjE3NjIyNzk2NDMsImlhdCI6MTc2MjE5MzI0M30.kcCmUMzOMjTZE7gh5MWBXcP7R-Oc88ozXBR-PfbsEI8",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "        {\r\n          \"fechaPublicacion\": \"2025-11-03T00:00:00\"\r\n        }\r\n        ",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5162/api/peliculas/buscar-por-fecha",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5162",
+					"path": [
+						"api",
+						"peliculas",
+						"buscar-por-fecha"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "asignar-sala-pelicula",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6InJ5dSIsInJvbGUiOiJST0xFX0FETUlOIiwibmJmIjoxNzYyMTkzMjQzLCJleHAiOjE3NjIyNzk2NDMsImlhdCI6MTc2MjE5MzI0M30.kcCmUMzOMjTZE7gh5MWBXcP7R-Oc88ozXBR-PfbsEI8",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "        {\r\n          \"peliculaId\": 21,\r\n          \"salaCineId\": 4,\r\n          \"fechaPublicacion\": \"2025-11-03T00:00:00\",\r\n          \"fechaFin\": \"2025-11-05T00:00:00\"\r\n        }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5162/api/programacion/asignar",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5162",
+					"path": [
+						"api",
+						"programacion",
+						"asignar"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "add-salas",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6InJ5dSIsInJvbGUiOiJST0xFX0FETUlOIiwibmJmIjoxNzYyMTkzMjQzLCJleHAiOjE3NjIyNzk2NDMsImlhdCI6MTc2MjE5MzI0M30.kcCmUMzOMjTZE7gh5MWBXcP7R-Oc88ozXBR-PfbsEI8",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "        {\r\n          \"nombre\": \"Premium 25HD\"\r\n        }\r\n        ",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5162/api/salas",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5162",
+					"path": [
+						"api",
+						"salas"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "list-salas",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6InJ5dSIsInJvbGUiOiJST0xFX0FETUlOIiwibmJmIjoxNzYyMTkzMjQzLCJleHAiOjE3NjIyNzk2NDMsImlhdCI6MTc2MjE5MzI0M30.kcCmUMzOMjTZE7gh5MWBXcP7R-Oc88ozXBR-PfbsEI8",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "        {}\r\n        ",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5162/api/salas/list",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5162",
+					"path": [
+						"api",
+						"salas",
+						"list"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "update-salas",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6InJ5dSIsInJvbGUiOiJST0xFX0FETUlOIiwibmJmIjoxNzYyMTkzMjQzLCJleHAiOjE3NjIyNzk2NDMsImlhdCI6MTc2MjE5MzI0M30.kcCmUMzOMjTZE7gh5MWBXcP7R-Oc88ozXBR-PfbsEI8",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"id\": 2,\r\n  \"nombre\": \"Imax pro max\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5162/api/salas/update",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5162",
+					"path": [
+						"api",
+						"salas",
+						"update"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "delete-salas",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6InJ5dSIsInJvbGUiOiJST0xFX0FETUlOIiwibmJmIjoxNzYyMTkzMjQzLCJleHAiOjE3NjIyNzk2NDMsImlhdCI6MTc2MjE5MzI0M30.kcCmUMzOMjTZE7gh5MWBXcP7R-Oc88ozXBR-PfbsEI8",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"id\": 14\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5162/api/salas/delete",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5162",
+					"path": [
+						"api",
+						"salas",
+						"delete"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "filtrar-por-estado-salas",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6InJ5dSIsInJvbGUiOiJST0xFX0FETUlOIiwibmJmIjoxNzYyMTkzMjQzLCJleHAiOjE3NjIyNzk2NDMsImlhdCI6MTc2MjE5MzI0M30.kcCmUMzOMjTZE7gh5MWBXcP7R-Oc88ozXBR-PfbsEI8",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "        {\r\n          \"estado\": \"disponibles\"\r\n        }\r\n        ",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5162/api/salas/filtrar-por-estado",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5162",
+					"path": [
+						"api",
+						"salas",
+						"filtrar-por-estado"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "total-disponibles-salas",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6InJ5dSIsInJvbGUiOiJST0xFX0FETUlOIiwibmJmIjoxNzYyMTkzMjQzLCJleHAiOjE3NjIyNzk2NDMsImlhdCI6MTc2MjE5MzI0M30.kcCmUMzOMjTZE7gh5MWBXcP7R-Oc88ozXBR-PfbsEI8",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "        {\r\n          \"estado\": \"no_disponibles\"\r\n        }\r\n        ",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5162/api/salas/total-disponibles",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5162",
+					"path": [
+						"api",
+						"salas",
+						"total-disponibles"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "estrenos-por-sala",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6InJ5dSIsInJvbGUiOiJST0xFX0FETUlOIiwibmJmIjoxNzYyMTkzMjQzLCJleHAiOjE3NjIyNzk2NDMsImlhdCI6MTc2MjE5MzI0M30.kcCmUMzOMjTZE7gh5MWBXcP7R-Oc88ozXBR-PfbsEI8",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"nombreSala\": \"Mendigo\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5162/api/salas/estrenos-por-sala",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5162",
+					"path": [
+						"api",
+						"salas",
+						"estrenos-por-sala"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "estado-sala",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6InJ5dSIsInJvbGUiOiJST0xFX0FETUlOIiwibmJmIjoxNzYyMTkzMjQzLCJleHAiOjE3NjIyNzk2NDMsImlhdCI6MTc2MjE5MzI0M30.kcCmUMzOMjTZE7gh5MWBXcP7R-Oc88ozXBR-PfbsEI8",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"nombreSala\": \"Mendigo\",\r\n  \"fecha\": \"2025-11-03\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5162/api/salas/estado-sala",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5162",
+					"path": [
+						"api",
+						"salas",
+						"estado-sala"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
